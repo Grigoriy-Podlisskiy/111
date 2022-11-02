@@ -18,8 +18,8 @@ files:
     selected: true
     status: Unchecked
     encrypted_possible_answer: oAVT9BxkNZ0zTL/sBRrYngHUTbuA47i5amdXRPpHG8aprR3yqZaujcDObxIVilEt
-  - offset: 195
-    length: 35
+  - offset: 163
+    length: 43
     placeholder_text: 'if ...:  # TODO проверка палиндрома'
     initial_state:
       length: 35
